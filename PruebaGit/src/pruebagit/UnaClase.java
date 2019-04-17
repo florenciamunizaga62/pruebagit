@@ -15,5 +15,6 @@ public class UnaClase {
     System.out.println("Hola!");
     }
 private String Nombre;
+ private String Materia;
 
 }
